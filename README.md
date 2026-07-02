@@ -12,7 +12,7 @@ A competitive AZERTY hotkey preset for **Dawn of War: Soulstorm**, built around 
    ```
 
    `%APPDATA%` automatically resolves to your own `C:\Users\<you>\AppData\Roaming`, so this works on any machine. If you have more than one profile, use the matching `ProfileX` folder instead of `Profile1`.
-3. Launch the game, go to **Options > Controls / Key Bindings**, and select **ZQSD_AZERTY_PRO** from the preset list.
+3. Launch the game, go to **Options > Gameplay**, and select **ZQSD_AZERTY_PRO** from the preset list for hotkeys.
 
 ## What it does
 
