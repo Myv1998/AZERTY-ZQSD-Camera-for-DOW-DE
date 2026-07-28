@@ -12,7 +12,7 @@ A competitive AZERTY hotkey preset for **Dawn of War: Soulstorm**, built around 
    ```
 
    `%APPDATA%` automatically resolves to your own `C:\Users\<you>\AppData\Roaming`, so this works on any machine. If you have more than one profile, use the matching `ProfileX` folder instead of `Profile1`.
-3. Launch the game, go to **Options > Gameplay**, and select **ZQSD_AZERTY_PRO** from the preset list for hotkeys.
+3. Launch the game, go to **Options > Gameplay**, and select **ZQSD_AZERTY_PRO** or **WASD_QWERTY_PRO** from the preset list for hotkeys.
 
 ## What it does
 
@@ -23,4 +23,4 @@ See the full guide for the complete key reference and design notes.
 
 ## License
 
-Free to use and modify. Credit to Dreamkilled for the original WASD_DK preset this is based on.
+Free to use and modify. Credit to Dreamkilled for the original WASD_DK preset this is based on which I then modified. There's not much of the original left, to be honest.
